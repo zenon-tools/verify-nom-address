@@ -1,0 +1,9 @@
+name: verify_nom_address
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dependencies:
+  znn_sdk_dart: any
+  hex: ^0.2.0
+  http: ^0.13.4
