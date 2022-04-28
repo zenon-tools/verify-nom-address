@@ -13,7 +13,7 @@ dart compile exe lib/verify_nom_address.dart
 After compiling, run the program with the following commands:
 ```
 cd lib
-.\verify_nom_address.exe "ADDRESS" "MESSAGE" "PUBLICKEY" "SIGNATURE" "NODE_HTTP_URL"
+.\verify_nom_address.exe "ADDRESS" "MESSAGE" "PUBLIC_KEY" "SIGNATURE" "NODE_HTTP_URL"
 ```
 
 ### Example with arguments using a local node
